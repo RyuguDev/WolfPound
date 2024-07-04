@@ -1,9 +1,16 @@
-Copyright (c) 2011, Eric Stokes
-All rights reserved.
+# WolfPound - Adopt a Wolf Today!
 
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+![WolfPound](https://web.archive.org/web/20161211235215im_/http://f.cl.ly/items/3h1r113t2411321b1w3U/Screen%20Shot%202011-08-24%20at%206.34.59%20PM.png)
 
-Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
-Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-Neither the name of the FernFerret Studios nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+### Current Version: v1.0.4
+
+## Features:
+
+- Lets users buy wolves (or you could make them free)
+- Integrates with iConomy, BOSEconomy, RealEconomy, Essentials Built in Economy, and Permissions!
+- Spawn wolves as neutral, friendly or **REALLY ANGRY**
+- Spawn multiple wolves with one command!(Disclaimer: I am not responsible for the massive amount of wolves you spawn, or if wolves start getting in fights)
+- Limit the number of wolves you can spawn with the command
+- Multi-World Support! All options are now configurable PER WORLD!
+
+---
